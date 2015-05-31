@@ -13,4 +13,6 @@ I hope to use this to develop a sort of Wayfinding mechanism for the disabled to
 
 Pictures will be included soon!
 
+![image1 1](https://cloud.githubusercontent.com/assets/10624942/7904386/19389b0e-07c6-11e5-8b94-a6627810a8ff.JPG)
+
 This is still a work in progress, please enjoy!
