@@ -11,8 +11,9 @@ push it later.
 
 I hope to use this to develop a sort of Wayfinding mechanism for the disabled to navigate a room.
 
-Pictures will be included soon!
 
-![image1 1](https://cloud.githubusercontent.com/assets/10624942/7904386/19389b0e-07c6-11e5-8b94-a6627810a8ff.JPG)
+Here is a picture of the All Seeing Octo(need a better name)
+![image2](https://cloud.githubusercontent.com/assets/10624942/7906083/dca7e6be-07f1-11e5-9b43-8ecf6694b808.JPG)
+Please excuse the spaghetti around the robot.
 
 This is still a work in progress, please enjoy!
