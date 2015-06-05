@@ -1,0 +1,22 @@
+#include <PID_v1.h>
+
+double setpoint , input, output;
+PID myPid(&input,&output,&setpoint,2,5,1,DIRECT);
+
+void setup()
+{
+input = analogRead(0);
+Setpoint = 100;
+  
+myPid.SetMode(AUTOMATIC);
+myPid.SetSampleTime(10);
+}
+
+void loop()
+{
+Input = analogRead(0);
+myPid.Compute();
+analogWrite(3,Output);
+  
+
+}
